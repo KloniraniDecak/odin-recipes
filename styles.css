@@ -1,0 +1,26 @@
+* {
+  background-color: black;
+  color: whitesmoke; 
+  font-family: Tahoma, Verdana, sans-serif;
+}
+h1 {
+font-family: Verdana, Tahoma, sans-serif;
+color: orange;
+opacity: 100%;
+}
+h2 {
+  color: orange;
+  opacity: 80%;
+  font-family: Tahoma, Verdana, sans-serif;
+}
+
+h3 {
+    color: orangered;
+    opacity: 80%;
+}
+
+.link {
+    font-style: italic;
+    color: blue;
+}
+
