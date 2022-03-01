@@ -24,3 +24,12 @@ h3 {
     color: blue;
 }
 
+.list {
+  color: white;
+  font-size: 18px;
+  line-height: 1,8;
+}
+
+.small {
+  opacity: 80%;
+}
